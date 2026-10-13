@@ -10,13 +10,12 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
   [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:arun861gupta@gmail.com)
   [![Profile Views](https://komarev.com/ghpvc/?username=Arun069gupta&color=00adb5&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Arun069gupta)
-  ![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-Robotics%20Engineering%20Roles-22c55e?style=for-the-badge)
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT ME SECTION WITH ANIMATED CHARACTER ==================== -->
+<!-- ==================== ABOUT ME WITH ANIMATED CHARACTER ==================== -->
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpodGNxOWdyMndseW41ZTR1Z3FvdGd2ZHNmd3d5OGh1dHdhb2llciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" alt="Coding Animation" />
 
 ### About me
@@ -46,34 +45,17 @@ class ArunGupta:
 
 ---
 
-<!-- ==================== TECH STACK (SKILL ICONS) ==================== -->
-### ⚡ Tech Stack
+<!-- ==================== TECHNICAL SKILLS ==================== -->
+### 🛠️ Technical Skills
 
 <div align="center">
 
-<p><strong>Robotics, Simulation & CAD</strong></p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,cmake,linux&perrow=6" alt="Robotics Skills" />
-</a>
-
-<p><strong>AI, RL & Computation</strong></p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python&perrow=6" alt="AI Skills" />
-</a>
-
-<p><strong>Languages & Development Tools</strong></p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,vscode,docker&perrow=8" alt="Developer Tools" />
-</a>
-
-<br/>
-
-| Specialized Tooling | Coverage |
+| Domain | Technologies & Tools |
 | :--- | :--- |
-| **Simulation Engines** | **MuJoCo** (Rigid-body dynamics) • **Gazebo** (SDF/URDF world simulations) |
-| **Robotics Middleware** | **ROS 2** (rclpy, rclcpp, Nav2, RViz, TF2, Custom Services & Actions) |
-| **CAD & Engineering Analysis** | **SolidWorks** (3D Mechanical Assembly & Drafting) • **ANSYS** (Structural FEA) |
-| **Microcontrollers & Hardware** | **ESP32** • **Arduino** • **Microchip PIC** (PIC18F series) |
+| **Languages & Firmware** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded_C-283593?style=flat-square&logo=c&logoColor=white) |
+| **Robotics & Autonomy** | ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white) ![RViz](https://img.shields.io/badge/RViz-1565C0?style=flat-square&logo=ros&logoColor=white) ![SLAM](https://img.shields.io/badge/SLAM-00838F?style=flat-square&logo=googlemaps&logoColor=white) ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0097A7?style=flat-square&logo=openai&logoColor=white) |
+| **Physics Simulation & CAD** | ![MuJoCo](https://img.shields.io/badge/MuJoCo-00ACC1?style=flat-square&logo=googlecloud&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=flat-square&logo=gazebo&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-E53935?style=flat-square&logo=dassaultsystemes&logoColor=white) ![ANSYS](https://img.shields.io/badge/ANSYS-FFB300?style=flat-square&logo=ansys&logoColor=black) |
+| **Embedded & Microcontrollers** | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Microchip PIC](https://img.shields.io/badge/PIC_Microchip-0277BD?style=flat-square&logo=microchip&logoColor=white) |
 
 </div>
 
@@ -89,7 +71,29 @@ class ArunGupta:
 - **Physics Engine:** Simulated rigid-body kinematics, tire-road contact friction, and aerodynamics inside **MuJoCo**.
 - **Multi-Agent Interaction:** Implemented decentralized observation spaces enabling collision-free multi-vehicle competitive racing.
 - **Stack:** `Python` • `MuJoCo` • `PyTorch / RL` • `Gymnasium`
-- 🔗 **Repository:** [View Project Repository](https://github.com/Arun069gupta/PLACEHOLDER_MULTI_AGENT_RACING) *(Update with your repository URL)*
+- 🔗 **Repository:** [View Project Repository](https://github.com/Arun069gupta?tab=repositories)
+
+---
+
+<!-- ==================== ENGINEERING FOCUS AREAS ==================== -->
+### 🔬 Engineering Focus Areas
+
+```
+├── 🤖 ROS 2 & Autonomous Systems
+│   ├── Node architecture, custom QoS profiles, lifecycle nodes
+│   ├── 2D/3D SLAM mapping, sensor fusion (IMU + Odometry + LiDAR)
+│   └── Path planning, costmaps, and trajectory tracking in RViz
+│
+├── ⚙️ Simulation & Digital Twins
+│   ├── Rigid-body kinematics & multi-contact dynamics in MuJoCo & Gazebo
+│   ├── Robotics chassis and actuator assembly CAD in SolidWorks
+│   └── Finite Element Analysis (FEA) and structural load validation with ANSYS
+│
+└── ⚡ Embedded Systems & Firmware
+    ├── Low-latency motor and actuator control routines (PWM, UART, I2C, SPI)
+    ├── Distributed telemetry over MQTT on ESP32 microcontrollers
+    └── Bare-metal and HAL firmware implementation in Embedded C
+```
 
 ---
 
@@ -103,11 +107,11 @@ class ArunGupta:
         <img src="https://github-readme-stats.vercel.app/api?username=Arun069gupta&show_icons=true&theme=tokyonight&bg_color=0a192f&title_color=00adb5&icon_color=38bdf8&text_color=ccd6f6&border_color=1f2937&hide_border=false" width="100%" alt="Arun's GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun069gupta&layout=compact&theme=tokyonight&bg_color=0a192f&title_color=00adb5&text_color=ccd6f6&border_color=1f2937&hide_border=false &hide=SWIG" width="100%" alt="Arun's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun069gupta&layout=compact&theme=tokyonight&bg_color=0a192f&title_color=00adb5&text_color=ccd6f6&border_color=1f2937&hide_border=false&hide=SWIG" width="100%" alt="Arun's Top Languages" />
       </td>
     </tr>
   </table>
-  
+
   <br />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arun069gupta&theme=tokyonight&background=0a192f&ring=00adb5&fire=38bdf8&currStreakLabel=00adb5&border=1f2937&sideLabels=ccd6f6&dates=8892b0" width="100%" alt="Arun's GitHub Streak" />
@@ -126,6 +130,7 @@ class ArunGupta:
 
 </div>
 
+<!-- ==================== FOOTER ==================== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00adb5,50:0f3460,100:0a192f&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
