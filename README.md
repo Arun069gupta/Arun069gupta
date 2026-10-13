@@ -1,7 +1,9 @@
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0f3460,100:00adb5&height=220&section=header&text=Arun%20Gupta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%26%20Automation%20%7C%20ROS%202%20%7C%20Autonomous%20Systems&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Arun Gupta Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0f3460,100:00adb5&height=220&section=header&text=Arun%20Gupta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Robotics%20and%20Automation%20%7C%20ROS%202%20%7C%20Autonomous%20Systems&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Arun Gupta Header Banner" />
 </div>
 
+<!-- QUICK LINKS & BADGES -->
 <div align="center">
 
   [![Profile Views](https://komarev.com/ghpvc/?username=Arun069gupta&label=PROFILE%20VIEWS&color=00adb5&style=for-the-badge)](https://github.com/Arun069gupta)
@@ -50,7 +52,7 @@ I am a **Robotics and Automation Engineer** dedicated to engineering high-perfor
 - **Physics Engine:** Simulated rigid-body kinematics, tire-road contact friction, and aerodynamics inside **MuJoCo**.
 - **Multi-Agent Interaction:** Implemented decentralized observation spaces enabling collision-free multi-vehicle competitive racing.
 - **Stack:** `Python` • `MuJoCo` • `PyTorch / RL` • `Gymnasium`
-- 🔗 **Repository:** [View Project Repository](https://github.com/Arun069gupta/PLACEHOLDER_MULTI_AGENT_RACING) *(Update with your repository URL)*
+- 🔗 **Repository:** [View Project Repository](https://github.com/Arun069gupta?tab=repositories)
 
 ---
 
