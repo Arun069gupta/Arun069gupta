@@ -103,7 +103,7 @@ class ArunGupta:
         <img src="https://github-readme-stats.vercel.app/api?username=Arun069gupta&show_icons=true&theme=tokyonight&bg_color=0a192f&title_color=00adb5&icon_color=38bdf8&text_color=ccd6f6&border_color=1f2937&hide_border=false" width="100%" alt="Arun's GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun069gupta&layout=compact&theme=tokyonight&bg_color=0a192f&title_color=00adb5&text_color=ccd6f6&border_color=1f2937&hide_border=false" width="100%" alt="Arun's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun069gupta&layout=compact&theme=tokyonight&bg_color=0a192f&title_color=00adb5&text_color=ccd6f6&border_color=1f2937&hide_border=false &hide=SWIG" width="100%" alt="Arun's Top Languages" />
       </td>
     </tr>
   </table>
